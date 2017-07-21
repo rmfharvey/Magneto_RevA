@@ -1,0 +1,7 @@
+Added Component: Designator=X?(Planar Coil - 44 Turns (12.5mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Inductance"; Value = "2.44uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Layers"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1.11ohm"; VariantName = "[No Variations]"
+Added Class: Name=Planar_Coils
+Added Room: Name=Planar_Coils
